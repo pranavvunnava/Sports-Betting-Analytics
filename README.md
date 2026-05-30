@@ -1,4 +1,4 @@
-# EdgeLab — Sports Betting Analytics
+# Sports Betting Analytics
 
 A full-stack sports betting analytics platform for identifying +EV opportunities, tracking closing line value, scanning arbitrage and middles, and managing bankroll performance.
 
